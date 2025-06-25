@@ -1,3 +1,5 @@
+---
+
 ````markdown
 # ⚡ QR Code Generator
 
