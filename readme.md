@@ -1,7 +1,7 @@
 
 ---
 
-````markdown
+markdown
 # ⚡ QR Code Generator
 
 A simple Node.js CLI app that takes user input (name and URL), generates a QR code image from the URL, and saves both the image and input data to a `.txt` file.
@@ -83,4 +83,3 @@ npm install inquirer qr-image
 This project is licensed under the [MIT License](LICENSE)
 
 ---
-```
