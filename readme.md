@@ -1,3 +1,4 @@
+
 ---
 
 ````markdown
@@ -18,6 +19,8 @@ A simple Node.js CLI app that takes user input (name and URL), generates a QR co
 
 ## 📦 Installation
 
+Clone the repo and install dependencies:
+
 ```bash
 git clone https://github.com/itslokeshx/QR-Code-Generator.git
 cd QR-Code-Generator
@@ -28,9 +31,13 @@ npm install
 
 ## 🛠️ Usage
 
+Run the app with:
+
 ```bash
 node index.js
 ```
+
+---
 
 ### Example Output
 
@@ -63,14 +70,17 @@ QR-Code-Generator/
 * [qr-image](https://www.npmjs.com/package/qr-image) – QR code generation
 * Node.js built-in `fs` module – for file operations
 
-Install them with:
+Install them manually with:
 
 ```bash
 npm install inquirer qr-image
 ```
 
+---
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE)
 
+---
 ```
